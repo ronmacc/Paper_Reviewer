@@ -11,7 +11,7 @@
 
   <hr>
 
-  <h2>⚙Requirements</h2>
+  <h2>Requirements</h2>
   <ul>
     <li>Python 3.10+</li>
     <li>Git</li>
@@ -45,7 +45,7 @@ cd llm-chatbot</code></pre>
 
   <hr>
 
-  <h2>▶6. Run the App</h2>
+  <h2>6. Run the App</h2>
   <pre><code>streamlit run app.py</code></pre>
   <p>The app will open in your browser at <a href="http://localhost:8501">http://localhost:8501</a>.</p>
 
