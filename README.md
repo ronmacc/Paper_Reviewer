@@ -35,7 +35,7 @@ cd llm-chatbot</code></pre>
   <pre><code>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process</code></pre>
 
   <h3>4. Install Required Packages</h3>
-  <pre><code>pip install streamlit openai python-dotenv PyPDF2 langchain</code></pre>
+  <pre><code>pip install streamlit openai python-dotenv PyPDF2 langchain langchain-community</code></pre>
 
   <hr>
 
